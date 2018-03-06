@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-splashscreen",
+  "name": "efu-cordova-splashscreen",
   "version": "4.0.3",
   "description": "Cordova Splashscreen Plugin",
   "types": "./types/index.d.ts",
